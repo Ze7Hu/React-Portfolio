@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.47d08176.css",
+    "main.js": "/React-Portfolio/static/js/main.7820c711.js",
+    "static/js/787.1f11dfe9.chunk.js": "/React-Portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/tripguide.png": "/React-Portfolio/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/React-Portfolio/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/React-Portfolio/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/React-Portfolio/static/media/jobit.755da7149642fd049273.png",
+    "static/media/horrison.jpeg": "/React-Portfolio/static/media/horrison.38206b3ea929010d5e83.jpeg",
+    "static/media/employee.png": "/React-Portfolio/static/media/employee.b044196715ceeac1e5bf.png",
+    "static/media/sociosynergy.jpeg": "/React-Portfolio/static/media/sociosynergy.98a9472dbd5c387f2ad4.jpeg",
+    "static/media/mypic.jpeg": "/React-Portfolio/static/media/mypic.813338595eefc9775ec8.jpeg",
+    "static/media/ig.png": "/React-Portfolio/static/media/ig.79535458a8a6d88f81d4.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.b3712f9b4bee35f98a4d.pdf",
+    "static/media/passwordgen.png": "/React-Portfolio/static/media/passwordgen.7a90647fb29070e0ac58.png",
+    "static/media/note.jpeg": "/React-Portfolio/static/media/note.e41a05f9f45c2a3df813.jpeg",
+    "static/media/restaurant.png": "/React-Portfolio/static/media/restaurant.ee3a35f239e94673ac3a.png",
+    "static/media/github.png": "/React-Portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/close.svg": "/React-Portfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "/React-Portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.47d08176.css.map": "/React-Portfolio/static/css/main.47d08176.css.map",
+    "main.7820c711.js.map": "/React-Portfolio/static/js/main.7820c711.js.map",
+    "787.1f11dfe9.chunk.js.map": "/React-Portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d08176.css",
+    "static/js/main.7820c711.js"
+  ]
+}
