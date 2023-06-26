@@ -34,7 +34,7 @@ TailwindCSS
 
 ## Github Pages
 
-Locate the deployed application link here [https://ze7hu.github.io/React-Portfolio/]
+Locate the deployed application link here [https://Ze7Hu.github.io/React-Portfolio]
 
 
 ## Screenshots
